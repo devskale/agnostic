@@ -1,0 +1,4 @@
+agno
+fastapi[standard]
+uvicorn
+openai
