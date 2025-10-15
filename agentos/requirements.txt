@@ -2,3 +2,7 @@ agno
 fastapi[standard]
 uvicorn
 openai
+ddgs
+yfinance
+sqlalchemy
+-r https://skale.dev/credgoo
